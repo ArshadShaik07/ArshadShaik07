@@ -29,4 +29,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ArshadShaik07&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![An image of @arshadshaik07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshadshaik07)](https://holopin.io/@arshadshaik07)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
