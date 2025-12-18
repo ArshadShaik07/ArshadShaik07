@@ -63,7 +63,8 @@ Here is a brief overview of my skills and open-source contributions.
 <br/>
 
 ### Backend
-<img src="https://devicon-website.vercel.app/api/nodejs/original-wordmark.svg" width="50" />
+<div align='center'>
+  <img src="https://devicon-website.vercel.app/api/nodejs/original-wordmark.svg" width="50" />
 
 <picture>
   <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" media="(prefers-color-scheme: dark)" />
@@ -72,11 +73,13 @@ Here is a brief overview of my skills and open-source contributions.
 </picture>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
+</div>
 
 <br/>
 
 ### Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" />
+<div align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
 
 <picture>
@@ -84,6 +87,7 @@ Here is a brief overview of my skills and open-source contributions.
   <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" media="(prefers-color-scheme: light)" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
 </picture>
+</div>
 
 <br/><br/>
 
