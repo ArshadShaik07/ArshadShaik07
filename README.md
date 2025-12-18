@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Arshad  
 
-I'm a B.Tech undergraduate who enjoys building web applications and likes to understand how things work behind the scenes.  
-Here is a brief overview of my skills and open-source contributions.
+<p style="font-size: 1.rem; font-weight: 500;">
+  I'm a B.Tech undergraduate who enjoys building web applications and likes to understand how things work behind the scenes.<br/>
+  Here is a brief overview of my skills and open-source contributions.
+</p>
 
 <br/>
 
