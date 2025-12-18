@@ -51,8 +51,9 @@ Here is a brief overview of my skills and open-source contributions.
 
 ## 💻 Tech Stack
 
-### Frontend
 <div align='center'>
+
+### Frontend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
@@ -62,8 +63,9 @@ Here is a brief overview of my skills and open-source contributions.
 
 <br/>
 
-### Backend
 <div align='center'>
+
+### Backend
   <img src="https://devicon-website.vercel.app/api/nodejs/original-wordmark.svg" width="50" />
 
 <picture>
@@ -77,8 +79,9 @@ Here is a brief overview of my skills and open-source contributions.
 
 <br/>
 
-### Tools
 <div align='center'>
+
+### Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
 
@@ -91,24 +94,28 @@ Here is a brief overview of my skills and open-source contributions.
 
 <br/><br/>
 
-## 🏅 Badges & Achievements
 
 <a href="https://holopin.io/@arshadshaik07">
+
+## 🏅 Badges & Achievements
   <img src="https://holopin.me/arshadshaik07" />
 </a>
 
 <br/><br/>
 
+<div align="center">
+
 ### 🌐 Socials
+  <a href="https://www.linkedin.com/in/arshad-shaik-483668313/">
+    <picture>
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" media="(prefers-color-scheme: light)" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:arshadshaik2007@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="26" />
+  </a>
+</div>
 
-<picture>
-  <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" media="(prefers-color-scheme: light)" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
-</picture>
-
-<br/>
-
-<a href="mailto:arshadshaik2007@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="26" />
-</a>
