@@ -75,7 +75,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+  <img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" width="50" />
 </div>
 
 <br/><br/>
